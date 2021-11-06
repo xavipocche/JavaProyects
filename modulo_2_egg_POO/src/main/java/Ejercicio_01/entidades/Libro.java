@@ -19,7 +19,7 @@ public class Libro {
     public void crear_libro(int ISBN, String titulo, String autor, int paginas){
         this.ISBN = ISBN;
         this.titulo = titulo;
-        this.paginas = paginas;
+        this.autor = autor;
         this.paginas = paginas;
     }
     
